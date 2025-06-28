@@ -21,7 +21,7 @@ A responsive, animated landing page built with **Next.js 15**, **TypeScript**, a
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Rahul-Ganatra/Training-Task-3.git
    cd training-task-3
    ```
 
