@@ -78,21 +78,6 @@ src/
 - **Contact**: Form with validation.
 - **Footer**: Links, social icons, and animated graphics.
 
-## 🏆 Performance
-
-- **Next.js Optimization**: Fast, server-side rendering.
-- **Image Optimization**: Next.js `<Image />` for responsive images.
-- **Code Splitting**: Automatic for faster loads.
-- **SEO**: Semantic HTML, meta tags, and accessibility.
-
-## 📱 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-- Mobile browsers (iOS Safari, Chrome Mobile)
-
 ## 🤝 Contributing
 
 1. Fork the repository
