@@ -4,7 +4,7 @@ A responsive, animated landing page built with **Next.js 15**, **TypeScript**, a
 
 ## 🎬 Demo
 
-[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/6f7570b05c38474786b1377b0fb8bf6b-with-play.gif)](https://www.loom.com/share/6f7570b05c38474786b1377b0fb8bf6b?sid=827b1753-f7f1-47e0-88f3-15b28ce6768e)
+[![Watch the demo]](https://www.loom.com/share/6f7570b05c38474786b1377b0fb8bf6b?sid=827b1753-f7f1-47e0-88f3-15b28ce6768e)
 
 ## ✨ Features
 
